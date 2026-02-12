@@ -1,5 +1,21 @@
 {
   "BOTNAME": "SARDAR RDX",
+  "BOTNICK": "{ . } × SARDAR RDX",
+  "PREFIX": ".",
+  "ADMINBOT": [
+    "61558005913380",
+    "61558005913380",
+    "61558005913380"
+  ],
+  "REACT_DELETE_EMOJI": "😡",
+  "PREFIX_ENABLED": true,
+  "ADMIN_ONLY_MODE": false,
+  "AUTO_ISLAMIC_POST": true,
+  "AUTO_GROUP_MESSAGE": true,
+  "TIMEZONE": "Asia/Karachi",
+  "APPROVE_ONLY": false
+}{
+  "BOTNAME": "SARDAR RDX",
   "BOTNICK": "{ . } ×  𝔹𝕆𝕋 𝕁𝔸ℕ𝕌 2",
   "PREFIX": ".",
   "ADMINBOT": [,
