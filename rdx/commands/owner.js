@@ -30,16 +30,16 @@ module.exports = {
 ║   ✨ 𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑 𝐈𝐍𝐅𝐎 ✨   ║
 ╠═══════════════════════════╣
 ║                           ║
-║  👤 𝐍𝐚𝐦𝐞: SARDAR RDX    ║
+║  👤 𝐍𝐚𝐦𝐞: HAMZA RDX    ║
 ║                           ║
 ╠═══════════════════════════╣
 ║  📱 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐈𝐧𝐟𝐨:          ║
 ║                           ║
 ║  🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤:              ║
-║  facebook.com/SARDAR RDX ║
+║  https://www.facebook.com/chiiiiiiirsiiiiiiiy.ansiiiiiiiay.mn.a?mibextid=ZbWKwL ║
 ║                           ║
 ║  📲 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩:              ║
-║  wa.me/923301068874       ║
+║  wa.me/923206700336       ║
 ║                           ║
 ╠═══════════════════════════╣
 ║  🤖 𝐁𝐨𝐭 𝐃𝐞𝐭𝐚𝐢𝐥𝐬:           ║
